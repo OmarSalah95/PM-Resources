@@ -1,6 +1,5 @@
 # Recommended directory tree (File Structure)
 
-*  ## Lambda
      * ### User Interface
         1. Sprint 1
             * Module I
@@ -32,7 +31,7 @@
             * Module III
             * Module IV
             * Sprint Challenge
-     * ### Front End
+     * ###** Front End
         1. Sprint 1
             * Module I
             * Module II
@@ -63,7 +62,7 @@
             * Module III
             * Module IV
             * Sprint Challenge
-    *  ###Back End
+    *  ###**Back End
         1. Sprint 1
             * Module I
             * Module II
