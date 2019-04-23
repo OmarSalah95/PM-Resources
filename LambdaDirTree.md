@@ -1,94 +1,94 @@
 # Recommended directory tree (File Structure)
 
 *  ## **Lambda**
-     * ### User Interface
-        1. Sprint 1
+     * ### **User Interface**
+        1. _Sprint 1_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 2
+        1. _Sprint 2_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 3
+        1. _Sprint 3_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 4
+        1. _Sprint 4_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 5
+        1. _Sprint 5_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-     * ###** Front End
-        1. Sprint 1
+     * ### **Front End**
+        1. _Sprint 1_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 2
+        1. _Sprint 2_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 3
+        1. _Sprint 3_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 4
+        1. _Sprint 4_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 5
+        1. _Sprint 5_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-    *  ###**Back End
-        1. Sprint 1
+    *  ### **Back End**
+        1. _Sprint 1_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 2
+        1. _Sprint 2_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 3
+        1. _Sprint 3_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 4
+        1. _Sprint 4_
             * Module I
             * Module II
             * Module III
             * Module IV
             * Sprint Challenge
-        1. Sprint 5
+        1. _Sprint 5_
             * Module I
             * Module II
             * Module III
