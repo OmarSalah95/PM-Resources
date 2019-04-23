@@ -34,6 +34,11 @@
             * Sprint Challenge
     * Front End
         1. Sprint 1
+        * Module I
+            * Module II
+            * Module III
+            * Module IV
+            * Sprint Challenge
         1. Sprint 2
         1. Sprint 3
         1. Sprint 4
