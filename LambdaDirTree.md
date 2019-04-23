@@ -8,7 +8,6 @@
 | Build Weeks | Repository to the work completed in build weeks. |
 
 
-
 *  ### **Lambda**
      * ### **_User Interface_**
         1. _Sprint 1_

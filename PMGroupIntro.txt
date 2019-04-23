@@ -2,16 +2,34 @@ Hey everyone, This is going to be our PM group, A smaller breakdown of the overa
 
 I will be your PM, Omar.
 
-The purpose of these smaller groups is to be able to better provide attention to you guys since the ultimate goal here at Lambda is Mastery based progression. Since  being a student _myself_ I have gone through and completed the WebDev portion of the curricullum, I have gone through the struggles you will since this isn't always easy.
+The purpose of these smaller groups is to be able to better provide attention to you guys since the 
+ultimate goal here at Lambda is Mastery based progression. Since  being a student _myself_ I have gone 
+through and completed the WebDev portion of the curricullum, I have gone through the struggles you will 
+since this isn't always easy.
 
-I will be conducting your *daily* code reviews for each days project, leaving comments on your code where it looks great, some recommendations(most likely some sweet ES6 1 line syntax), and where it could use some work. I will also be Checking on your attendance throughout the day as well as helping you debug issues in your code, or escilate some of your concerns to our amazing Section Lead @Olympia Wojcik, or up to the Student Success team. I will also be hosting our daily stand-ups in which we will cover the days material, any points of difficulty, blockers, clever solutions and other things.
+I will be conducting your *daily* code reviews for each days project, leaving comments on your code where 
+it looks great, some recommendations(most likely some sweet ES6 1 line syntax), and where it could use some 
+work. I will also be Checking on your attendance throughout the day as well as helping you debug issues in your 
+code, or escilate some of your concerns to our amazing Section Lead @Olympia Wojcik, or up to the Student Success 
+team. I will also be hosting our daily stand-ups in which we will cover the days material, any points of difficulty, 
+blockers, clever solutions and other things.
 
-As students here we do expect everyone respect one another, and maintain a standard of professionalism. The goal of Lambda is to get you into an _amazing_ professional, career job, So we do ask that you treat the Lambda Hours like you are at that job now. (plus practice makes perfect and companies do turn people down for culture fits.)
+As students here we do expect everyone respect one another, and maintain a standard of professionalism. The goal of 
+Lambda is to get you into an _amazing_ professional, career job, So we do ask that you treat the Lambda Hours like 
+you are at that job now. (plus practice makes perfect and companies do turn people down for culture fits.)
 
 Now that house keeping is done I will let you in on some of my goals for our PM group.
 
-I wish this group to be a resource for each of us in here. As budding developers you will need somewhere to go and people to talk to about these cool solutions you came up with to problems, or ask for help. My PM group while I was going through the _WebDev_ portion of the curricullum was exactly that.
+I wish this group to be a resource for each of us in here. As budding developers you will need somewhere to go and 
+people to talk to about these cool solutions you came up with to problems, or ask for help. My PM group while I was 
+going through the _WebDev_ portion of the curricullum was exactly that.
 
-I also want to see you guys be the most prepared and KILL IT throughout the process, So I will be spicing things up abit with some additional Code Challenges during Stand-ups as we enter into the JS portion of the curricullum, and some other things.
+I also want to see you guys be the most prepared and KILL IT throughout the process, So I will be spicing things up 
+abit with some additional Code Challenges during Stand-ups as we enter into the JS portion of the curricullum, and 
+some other things.
 
-I don't want to give away too much, So with that I will say, I am super excited to meet, and get to know all of you amazing new devs tomorrow, and help guide you through this awesome journey you are about to take.
+I don't want to give away too much, So with that I will say, I am super excited to meet, and get to know all of you amazing 
+new devs tomorrow, and help guide you through this awesome journey you are about to take.
+
+
+
