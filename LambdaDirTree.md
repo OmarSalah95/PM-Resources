@@ -1,7 +1,7 @@
 # Recommended directory tree (File Structure)
 
-*  ## **Lambda**
-     * ### **User Interface**
+*  ### **Lambda**
+     * ### **_User Interface_**
         1. _Sprint 1_
             * Module I
             * Module II
