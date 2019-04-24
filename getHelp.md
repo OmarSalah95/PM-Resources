@@ -15,6 +15,14 @@
     * Ask the channel 
         * Your amazing peers who may have the help You need are monitoring the help channel
         * PM's are on duty monitoring the help channel during all Lambda Hours (8:00am - 5:00pm PST *_excluding lunch 11:00am -                 12:00pm_*) and so are the rest of your amazing peers who may have the help You need.
+        * **Be specific**. Give your pms and peers something to look at. It may lead to a 1 on 1 zoom if a solution can’t be found      quickly, but try to avoid asking for the zoom right away.
+        * **Keep everyone updated**. If someone else resolves your issue, PLEASE react to your question with :white_check_mark: so other’s don’t waste their time and we know who has/has not been helped. If you resolve your issue before anyone else has time to answer it, be sure to post your own answer to your question so others can benefit.
+        * **Question Format**
+           * Current behavior-  i.e. what is it doing now? what errors are you seeing?
+           * Expected/Desired behavior- i.e. what do you want it to do?
+           * Attempted solutions
+           * Code snippet
+
 1. **Ask your PM**
     * You have asked the help channel and just couldn't find the solution even with other students help
     * @ me `@OmarS` in #web20_omar with your question.
@@ -23,3 +31,6 @@
     * You and I are still baffled by this anomaly of a bug
         * I will reach out to our SL about possibly getting the instructors eyes to squash that bug.
     
+ 
+
+• 
