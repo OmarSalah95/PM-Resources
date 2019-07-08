@@ -26,7 +26,7 @@
 
 ### 6) go back to Github repo, select YOUR created branch, click compare & pull request button
 
-### 7) click base fork: dropdown -> select `firstname-lastname/project-name`
+### 7) click base fork: dropdown -> select `<firstname>MVP/project-name`
 
 ### 8) click reviewers button, add me `NOTE: If my name doesn't pop up when you type it in for reviewer it's because I haven't accepted your collaborator invite. DM me at that point because I might miss you sometimes, once I've accepted move to next step`
 
