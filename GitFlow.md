@@ -11,13 +11,16 @@
 	* git clone `shift + insert` (this will paste the clone link in your terminal/CLI)
 	* press "enter" to begin clone
   
-### 4) in terminal CD into cloned file and create a branch -> `git checkout -b "firstname-lastname"`
+### 4) in terminal CD into cloned file and create a branch -> `git checkout -b "<firstname>MVP"`
 
 ### 5) make a small change to project THEN:
 #### Add
 	* git add . (this will add ALL changes to commit)
 #### Commit
-	* git commit -m 'writeCommitMessageHere'
+	* `git commit -m '<writeCommitMessageHere>'`
+	* Preface the message with a status (Complete, Work in progress(WIP), PATCH, SOS)
+	* Write a well thought out message on why this is being commited
+	
 #### Push commit to GitHub Repository
   * `git push origin firstname-lastname`
 
@@ -35,4 +38,6 @@
 
 ### 12) Once MVP is complete make a commit with the commit message "mvp complete." And I'll check it out.
 
-### 13) I will not be reviewing daily homework assignments until the next day. Check your e-mail to see when I've merged your request.
+### 13) Once MVP is complete Repeat steps 1-10 working on Stretch in a separate `"<firstname>Stretch"`.
+
+### 14) I will not be reviewing daily homework assignments until the next day. Check your e-mail to see when I've merged your request.
