@@ -25,7 +25,14 @@
 
 1. **Ask your PM**
     * You have asked the help channel and just couldn't find the solution even with other students help
-    * @ me `@OmarS` in #web20_omar with your question.
+    * @ me `@OmarS` in #web20_75_omar with your question.
         * I will be notified right away and hopefully be able to help if one of your peers hasn't already.
        
   
+1. **Use Additional Resources**
+   * You are through some bugs but haven't met MVP or are not confident about the day
+      * Join 
+         * #web20_peerprogramming
+         * Daily Q/A session
+         * #web20_75_ah
+         
