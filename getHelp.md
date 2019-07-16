@@ -26,7 +26,8 @@
 1. **Ask your PM**
     * You have asked the help channel and just couldn't find the solution even with other students help
     * @ me `@OmarS` in #web20_75_omar with your question.
-        * I will be notified right away and hopefully be able to help if one of your peers hasn't already.
+        * I will be notified right away and hopefully be able to help if one of your peers has a similar issue
+    * Or DM me with a detailed explanation of the bug.
        
   
 1. **Use Additional Resources**
